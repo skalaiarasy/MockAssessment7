@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
+
 namespace MockAssessment7.Models
 {
     public class PlayerClass
@@ -17,5 +18,9 @@ namespace MockAssessment7.Models
             this.Name = name;
             this.Type = type;
         }
+
+        private List<PlayerClass> playerClassList = new List<PlayerClass>();
+
+        
     }
 }

@@ -28,5 +28,7 @@ namespace MockAssessment7.Models
                 new Player(4,"FunnyFrog2",90, this.PlayerClasses[3]),
             };
         }
+
+       
     }
 }

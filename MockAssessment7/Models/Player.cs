@@ -18,5 +18,6 @@ namespace MockAssessment7.Models
             this.Level = lvl;
             this.CurrentClass = playerClass;
         }
+   
     }
 }
